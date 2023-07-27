@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365461055830",
+    "project_id": "hasangramfinal",
+    "storage_bucket": "hasangramfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365461055830:android:89c39e4d99421f0845cef7",
+        "android_client_info": {
+          "package_name": "com.example.instagramcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365461055830-c98tm0aj6l5sqei6p4gkqii2su94tsq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSGjz-sl2kkAlSX9YjsVnfZ1UM9jf8NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365461055830-c98tm0aj6l5sqei6p4gkqii2su94tsq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
